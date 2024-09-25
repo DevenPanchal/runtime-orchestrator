@@ -19,6 +19,8 @@
 -->
 
 # Runtime Orchestrator
+[![DOI](https://zenodo.org/badge/218372901.svg)](https://zenodo.org/doi/10.5281/zenodo.13836084)
+
 
 This repository holds the server of the Runtime Blueprint Orchestrator
 for the Acumos machine-learning platform deployment. 
